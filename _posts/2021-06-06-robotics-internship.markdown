@@ -29,7 +29,7 @@ rosdep install -i --from-path src --rosdistro <distro> -y
 <u>cross compilation error</u><br> The libraries in anaconda and ros-foxy led to a runtime error due to cross compilation; we tried upgrading colcon but that did not work; we then referred to an article and changed the path as mentioned
 [article](https://blog.csdn.net/weixin_37532614/article/details/105552101)<br>
 The error still persisted, but this time, there was no cross compilation error, it was "something different"<br>
-We figured out that changinf from the base environment to the root environment might help; so I deleted the entire `action_ws` workspace and started again, this time doing it in the root environment<br>
+We figured out that changing from the base environment to the root environment might help; so I deleted the entire `action_ws` workspace and started again, this time doing it in the root environment<br>
 And this solved the error; colcon build was successful here :heavy_check_mark: <br>
 <u>error in server-client file compilation</u><br>
 The colcon build just failed here (again! :woman_facepalming:)<br>
