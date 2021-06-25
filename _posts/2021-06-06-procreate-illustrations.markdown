@@ -73,7 +73,7 @@ Can you perhaps guess the beautiful song?
 ![]({{ page.taylor | relative_url }})
 
 #### <u>Be free as a bird</u> 🌇
-This illustration here depicts "freedom", the splashes of various hues of blue symbolizes an attempt at expressing ourselves freely. I think it goes really well with the ballerina sillhouette. 🩰
+This illustration here depicts "freedom", the splashes of various hues of blue symbolizes an attempt at expressing ourselves freely. I think it goes really well with the ballerina sillhouette. 💟
 
 ![]({{ page.freedom | relative_url }})
 
