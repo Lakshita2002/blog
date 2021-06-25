@@ -28,6 +28,7 @@ url: "https://lakshita2002.github.io" # the base hostname & protocol for your si
 github_username:  Lakshita2002
 gems: ["jemoji"]
 
+
 # Build settings
 theme: minima
 plugins:

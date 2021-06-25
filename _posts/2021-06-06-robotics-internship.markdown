@@ -49,8 +49,8 @@ Turns out that the dependensies weren't being called and the compilation wasn't 
 The tutorial specified that Gazebo and Rviz GUIs should open up with a simple map; however in my case, it was taking a lot of time (around 5 minutes) for Gazebo to even start and the entire system would just hang up :interrobang:<br> 
 I run through some basic commands to see if Gazebo and Rviz were working with ROS2, Gazebo was working fine and I could even make a simple robot move in it (again, I followed a tutorial suggested by my mentor to verify the working) :checkered_flag:<br>
 I then run the command `ros2 run rviz2 rviz2` and Rviz window popped up meaning that Rviz was working fine as well<br>
-I resumed to following the Nav2 tutorial, and this time, I waited for a while (2-3 minutes) and both Gazebo and Rviz started up. I eventually completed the tutorial (moving a robot from a point to navigation goal) :robot:
+I resumed to following the Nav2 tutorial, and this time, I waited for a while (2-3 minutes) and both Gazebo and Rviz started up. I eventually completed the tutorial (moving a robot from a point to navigation goal) :robot: :robot:
 
 <u>colcon build failed in the "Robot State Publisher" section</u><br>
 The errors somewhat hinted towards an incorrect launch folder location; I tried changing the location of the launch folder, yet the colcon build failed<br>
-I went on and made a different workspace and placed the launch folder in the root location of the package to be built and it worked! yay! :partying_face:<br>
+I went on and made a different workspace and placed the launch folder in the root location of the package to be built and it worked! yay! :shamrock:<br>
