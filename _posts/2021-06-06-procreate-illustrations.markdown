@@ -78,7 +78,7 @@ This illustration here depicts "freedom", the splashes of various hues of blue s
 ![]({{ page.freedom | relative_url }})
 
 # **Collab with Music Club, IIT Kanpur** 🎹🎶
-It so happened that Shreyasi (coordinator, Mclub, IITK) asked me if I would be interested in making some sort of an artwork for their upcoming cover release as a part of **Musical Extravagenza** event. After making a few drafts and discussing some ideas with her, we finally pinpointed to 2-3 images for reference.
+It so happened that Shreyasi (coordinator, Mclub, IITK) asked me if I would be interested in making some sort of an artwork for their upcoming cover release as a part of **Musical Extravagenza 2021** event. After making a few drafts and discussing some ideas with her, we finally pinpointed to 2-3 images for reference.
 
 I made these two illustrations for Mclub's cover of **"Kyun"** from **"Barfi"**
 
