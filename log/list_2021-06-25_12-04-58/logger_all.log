@@ -1,0 +1,194 @@
+[0.379s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'list', '-p', '--base-paths', '/home/lakshita/blog']
+[0.379s] DEBUG:colcon:Parsed command line arguments: Namespace(base_paths=['/home/lakshita/blog'], build_base='build', ignore_user_meta=False, log_base=None, log_level=None, main=<bound method ListVerb.main of <colcon_package_information.verb.list.ListVerb object at 0x7f8e91016970>>, metas=['./colcon.meta'], names_only=False, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_end=None, packages_ignore=None, packages_ignore_regex=None, packages_select=None, packages_select_build_failed=False, packages_select_by_dep=None, packages_select_regex=None, packages_select_test_failures=False, packages_skip=None, packages_skip_build_finished=False, packages_skip_by_dep=None, packages_skip_regex=None, packages_skip_test_passed=False, packages_skip_up_to=None, packages_start=None, packages_up_to=None, packages_up_to_regex=None, paths=None, paths_only=True, topological_graph=False, topological_graph_density=False, topological_graph_dot=False, topological_graph_dot_cluster=False, topological_graph_dot_include_skipped=False, topological_graph_legend=False, topological_order=False, verb_extension=<colcon_package_information.verb.list.ListVerb object at 0x7f8e91016970>, verb_name='list', verb_parser=<colcon_defaults.argument_parser.defaults.DefaultArgumentsDecorator object at 0x7f8e90f85f70>)
+[1.097s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[1.098s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[1.098s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[1.098s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[1.098s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[1.098s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/lakshita/blog'
+[1.098s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog) by extensions ['ignore', 'ignore_ament_install']
+[1.099s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog) by extension 'ignore'
+[1.099s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog) by extension 'ignore_ament_install'
+[1.099s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog) by extensions ['colcon_pkg']
+[1.099s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog) by extension 'colcon_pkg'
+[1.099s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog) by extensions ['colcon_meta']
+[1.099s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog) by extension 'colcon_meta'
+[1.099s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog) by extensions ['ros']
+[1.099s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog) by extension 'ros'
+[1.195s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog) by extensions ['cmake', 'python']
+[1.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog) by extension 'cmake'
+[1.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog) by extension 'python'
+[1.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog) by extensions ['python_setup_py']
+[1.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog) by extension 'python_setup_py'
+[1.197s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_posts) by extensions ['ignore', 'ignore_ament_install']
+[1.197s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_posts) by extension 'ignore'
+[1.197s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_posts) by extension 'ignore_ament_install'
+[1.197s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_posts) by extensions ['colcon_pkg']
+[1.197s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_posts) by extension 'colcon_pkg'
+[1.197s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_posts) by extensions ['colcon_meta']
+[1.197s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_posts) by extension 'colcon_meta'
+[1.198s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_posts) by extensions ['ros']
+[1.198s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_posts) by extension 'ros'
+[1.198s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_posts) by extensions ['cmake', 'python']
+[1.198s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_posts) by extension 'cmake'
+[1.198s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_posts) by extension 'python'
+[1.198s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_posts) by extensions ['python_setup_py']
+[1.198s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_posts) by extension 'python_setup_py'
+[1.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site) by extensions ['ignore', 'ignore_ament_install']
+[1.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site) by extension 'ignore'
+[1.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site) by extension 'ignore_ament_install'
+[1.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site) by extensions ['colcon_pkg']
+[1.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site) by extension 'colcon_pkg'
+[1.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site) by extensions ['colcon_meta']
+[1.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site) by extension 'colcon_meta'
+[1.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site) by extensions ['ros']
+[1.200s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site) by extension 'ros'
+[1.200s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site) by extensions ['cmake', 'python']
+[1.200s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site) by extension 'cmake'
+[1.200s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site) by extension 'python'
+[1.200s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site) by extensions ['python_setup_py']
+[1.200s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site) by extension 'python_setup_py'
+[1.200s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/about) by extensions ['ignore', 'ignore_ament_install']
+[1.201s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/about) by extension 'ignore'
+[1.201s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/about) by extension 'ignore_ament_install'
+[1.201s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/about) by extensions ['colcon_pkg']
+[1.201s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/about) by extension 'colcon_pkg'
+[1.201s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/about) by extensions ['colcon_meta']
+[1.201s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/about) by extension 'colcon_meta'
+[1.201s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/about) by extensions ['ros']
+[1.201s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/about) by extension 'ros'
+[1.201s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/about) by extensions ['cmake', 'python']
+[1.201s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/about) by extension 'cmake'
+[1.201s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/about) by extension 'python'
+[1.202s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/about) by extensions ['python_setup_py']
+[1.202s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/about) by extension 'python_setup_py'
+[1.202s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/assets) by extensions ['ignore', 'ignore_ament_install']
+[1.202s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/assets) by extension 'ignore'
+[1.202s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/assets) by extension 'ignore_ament_install'
+[1.202s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/assets) by extensions ['colcon_pkg']
+[1.202s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/assets) by extension 'colcon_pkg'
+[1.202s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/assets) by extensions ['colcon_meta']
+[1.202s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/assets) by extension 'colcon_meta'
+[1.202s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/assets) by extensions ['ros']
+[1.203s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/assets) by extension 'ros'
+[1.203s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/assets) by extensions ['cmake', 'python']
+[1.203s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/assets) by extension 'cmake'
+[1.203s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/assets) by extension 'python'
+[1.203s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/assets) by extensions ['python_setup_py']
+[1.203s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/assets) by extension 'python_setup_py'
+[1.203s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/assets/images) by extensions ['ignore', 'ignore_ament_install']
+[1.203s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/assets/images) by extension 'ignore'
+[1.203s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/assets/images) by extension 'ignore_ament_install'
+[1.204s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/assets/images) by extensions ['colcon_pkg']
+[1.204s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/assets/images) by extension 'colcon_pkg'
+[1.204s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/assets/images) by extensions ['colcon_meta']
+[1.204s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/assets/images) by extension 'colcon_meta'
+[1.204s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/assets/images) by extensions ['ros']
+[1.204s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/assets/images) by extension 'ros'
+[1.204s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/assets/images) by extensions ['cmake', 'python']
+[1.204s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/assets/images) by extension 'cmake'
+[1.204s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/assets/images) by extension 'python'
+[1.204s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/assets/images) by extensions ['python_setup_py']
+[1.204s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/assets/images) by extension 'python_setup_py'
+[1.205s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll) by extensions ['ignore', 'ignore_ament_install']
+[1.205s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll) by extension 'ignore'
+[1.205s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll) by extension 'ignore_ament_install'
+[1.205s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll) by extensions ['colcon_pkg']
+[1.205s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll) by extension 'colcon_pkg'
+[1.205s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll) by extensions ['colcon_meta']
+[1.205s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll) by extension 'colcon_meta'
+[1.205s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll) by extensions ['ros']
+[1.205s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll) by extension 'ros'
+[1.205s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll) by extensions ['cmake', 'python']
+[1.205s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll) by extension 'cmake'
+[1.206s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll) by extension 'python'
+[1.206s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll) by extensions ['python_setup_py']
+[1.206s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll) by extension 'python_setup_py'
+[1.206s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update) by extensions ['ignore', 'ignore_ament_install']
+[1.206s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update) by extension 'ignore'
+[1.206s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update) by extension 'ignore_ament_install'
+[1.206s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update) by extensions ['colcon_pkg']
+[1.206s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update) by extension 'colcon_pkg'
+[1.206s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update) by extensions ['colcon_meta']
+[1.206s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update) by extension 'colcon_meta'
+[1.206s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update) by extensions ['ros']
+[1.206s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update) by extension 'ros'
+[1.207s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update) by extensions ['cmake', 'python']
+[1.207s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update) by extension 'cmake'
+[1.207s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update) by extension 'python'
+[1.207s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update) by extensions ['python_setup_py']
+[1.207s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update) by extension 'python_setup_py'
+[1.207s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021) by extensions ['ignore', 'ignore_ament_install']
+[1.207s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021) by extension 'ignore'
+[1.207s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021) by extension 'ignore_ament_install'
+[1.207s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021) by extensions ['colcon_pkg']
+[1.207s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021) by extension 'colcon_pkg'
+[1.207s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021) by extensions ['colcon_meta']
+[1.207s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021) by extension 'colcon_meta'
+[1.208s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021) by extensions ['ros']
+[1.208s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021) by extension 'ros'
+[1.208s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021) by extensions ['cmake', 'python']
+[1.208s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021) by extension 'cmake'
+[1.208s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021) by extension 'python'
+[1.208s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021) by extensions ['python_setup_py']
+[1.208s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021) by extension 'python_setup_py'
+[1.208s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021/06) by extensions ['ignore', 'ignore_ament_install']
+[1.208s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021/06) by extension 'ignore'
+[1.208s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021/06) by extension 'ignore_ament_install'
+[1.209s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021/06) by extensions ['colcon_pkg']
+[1.209s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021/06) by extension 'colcon_pkg'
+[1.209s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021/06) by extensions ['colcon_meta']
+[1.209s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021/06) by extension 'colcon_meta'
+[1.209s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021/06) by extensions ['ros']
+[1.209s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021/06) by extension 'ros'
+[1.209s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021/06) by extensions ['cmake', 'python']
+[1.209s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021/06) by extension 'cmake'
+[1.209s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021/06) by extension 'python'
+[1.209s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021/06) by extensions ['python_setup_py']
+[1.209s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021/06) by extension 'python_setup_py'
+[1.210s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021/06/06) by extensions ['ignore', 'ignore_ament_install']
+[1.210s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021/06/06) by extension 'ignore'
+[1.210s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021/06/06) by extension 'ignore_ament_install'
+[1.210s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021/06/06) by extensions ['colcon_pkg']
+[1.210s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021/06/06) by extension 'colcon_pkg'
+[1.210s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021/06/06) by extensions ['colcon_meta']
+[1.210s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021/06/06) by extension 'colcon_meta'
+[1.210s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021/06/06) by extensions ['ros']
+[1.210s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021/06/06) by extension 'ros'
+[1.210s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021/06/06) by extensions ['cmake', 'python']
+[1.210s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021/06/06) by extension 'cmake'
+[1.210s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021/06/06) by extension 'python'
+[1.210s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021/06/06) by extensions ['python_setup_py']
+[1.211s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/_site/jekyll/update/2021/06/06) by extension 'python_setup_py'
+[1.211s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/assets) by extensions ['ignore', 'ignore_ament_install']
+[1.211s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/assets) by extension 'ignore'
+[1.211s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/assets) by extension 'ignore_ament_install'
+[1.211s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/assets) by extensions ['colcon_pkg']
+[1.211s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/assets) by extension 'colcon_pkg'
+[1.211s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/assets) by extensions ['colcon_meta']
+[1.211s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/assets) by extension 'colcon_meta'
+[1.211s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/assets) by extensions ['ros']
+[1.211s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/assets) by extension 'ros'
+[1.211s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/assets) by extensions ['cmake', 'python']
+[1.211s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/assets) by extension 'cmake'
+[1.211s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/assets) by extension 'python'
+[1.212s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/assets) by extensions ['python_setup_py']
+[1.212s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/assets) by extension 'python_setup_py'
+[1.212s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/assets/images) by extensions ['ignore', 'ignore_ament_install']
+[1.212s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/assets/images) by extension 'ignore'
+[1.212s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/assets/images) by extension 'ignore_ament_install'
+[1.212s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/assets/images) by extensions ['colcon_pkg']
+[1.212s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/assets/images) by extension 'colcon_pkg'
+[1.212s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/assets/images) by extensions ['colcon_meta']
+[1.212s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/assets/images) by extension 'colcon_meta'
+[1.212s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/assets/images) by extensions ['ros']
+[1.212s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/assets/images) by extension 'ros'
+[1.212s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/assets/images) by extensions ['cmake', 'python']
+[1.212s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/assets/images) by extension 'cmake'
+[1.212s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/assets/images) by extension 'python'
+[1.213s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/assets/images) by extensions ['python_setup_py']
+[1.213s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/assets/images) by extension 'python_setup_py'
+[1.213s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/log) by extensions ['ignore', 'ignore_ament_install']
+[1.213s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/log) by extension 'ignore'
+[1.213s] Level 1:colcon.colcon_core.package_identification:_identify(/home/lakshita/blog/log) ignored
+[1.213s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults

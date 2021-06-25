@@ -11,11 +11,14 @@ forest: assets/images/forest.png
 ### Briefings :desktop_computer:
 `19/05/2021` Overview of the internship and current project run through<br>
 `27/05/2021` Introduction to ROS2 and the basics of robotics systems<br>
+`15/06/2021` Briefed about URDF; given an overview of the upcoming work<br>
+`25/06/2021` <b>Product Team Meeting</b> Assigned task for the next month<br>
 
 ### Weekly Updates :chart_with_upwards_trend:
 `Week-1` **(23rd - 29th May)** ROS2 installation; completed ROS2 beginner tutorials<br>
 `Week-2` **(30th May - 5th June)** Completed ROS2 CLI Libraries tutorials; encountered a dependency error (rosdep dependencies were missing); started ROS2 Intermediate tutorial and encountered a colcon build fail error while "creating an action file"<br>
-`Week-3` **(6th - 12th June)** Introduction to Gazebo, Rviz and Nav2 module
+`Week-3` **(6th - 12th June)** Introduction to Gazebo, Rviz and Nav2 module<br>
+`Week-4` **(13th June - 19th June)** Introduction to URDF files and set up files <br>
 
 ### Installations and Errors :interrobang:
 <u>linux kernel upgradation</u><br> Couldn't find the boot menu; was stuck for an hour and a half :alarm_clock:<br>
@@ -47,3 +50,7 @@ The tutorial specified that Gazebo and Rviz GUIs should open up with a simple ma
 I run through some basic commands to see if Gazebo and Rviz were working with ROS2, Gazebo was working fine and I could even make a simple robot move in it (again, I followed a tutorial suggested by my mentor to verify the working) :checkered_flag:<br>
 I then run the command `ros2 run rviz2 rviz2` and Rviz window popped up meaning that Rviz was working fine as well<br>
 I resumed to following the Nav2 tutorial, and this time, I waited for a while (2-3 minutes) and both Gazebo and Rviz started up. I eventually completed the tutorial (moving a robot from a point to navigation goal) :robot:
+
+<u>colcon build failed in the "Robot State Publisher" section</u><br>
+The errors somewhat hinted towards an incorrect launch folder location; I tried changing the location of the launch folder, yet the colcon build failed<br>
+I went on and made a different workspace and placed the launch folder in the root location of the package to be built and it worked! yay! :partying_face:<br>
