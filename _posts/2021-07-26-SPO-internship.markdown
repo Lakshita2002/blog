@@ -7,7 +7,8 @@ dr1: assets/images/dr reddy 1.png
 dr2: assets/images/dr reddy 2.png
 ---
 
-Hello everyone, I am a junior undergraduate student here at IIT Kanpur. I am majoring in mechanical engineering and my interests lay in dynamic systems, machine learning, artificial intelligence; I am exploring robotics and NLP as well. I have penned down my experience during the SPO intern season and some tips given to us by our seniors :heart:
+Hello everyone, I am a junior undergraduate student here at IIT Kanpur. I am majoring in mechanical engineering and my interests lay in dynamic systems, machine learning, artificial intelligence; I am exploring robotics and NLP as well. I have penned down my experience during the SPO intern season and some tips given to us by our seniors :heart:<br>
+I will be interning at Dr. Reddy's Laboratories as a technical intern in the summers of 2022 :slightly_smiling_face:
 
 ## Resources that I used during my preparation :books:<br>
 
@@ -41,6 +42,8 @@ I was very nervous and underconfident throughout. I was not selected for the int
 
 <b>Technical Interview:</b> The interviewee was a PhD in molecular science or something (a very high profile senior xD) He started with my introduction and then asked me about why would I, a mechanical engineer, be interested in joining a pharma company. So, do your research about the company, about their domain before the interview. Then he quizzed me on my resume and focussed soley on my SURGE project which included a lot of simulations using LAMMPS and OVITO. He then asked me how such simulations can be used in a pharma company. So, you must be very clear on your projects, anything and everything you write on your resume and it's practical applications as well. He then asked me a bit about the robotics experience I had and asked a couple of questions based on the robotics project I had done. Further, he asked me why I wanted to join Dr. Reddy's to which I replied with enthusiasm about their great work culture, the various opportunities one gets to work on, etc. Prepare such HR questions from before so that you appear confident in your interviews.<br>
 <b>HR Round:</b> It took place after around 15 mins of the technical round. I was not prepared at all. It started off by my introduction, where I come from and what I liked the most about Odisha (my homeland and birthplace :heart:) He then asked me why I had such a low CPI to which I replied logically. I even exclaimed how I am working hard to improve on it. He then asked me how much does CPI matter to which I replied, it matters a lot but there are other factors to consider than just CPI and here he exclaimed to me that CPI is the most improtant point in your resume and everything else is secondary. I was totally flustered at this point. He even exclaimed "I don't know what your seniors told you, but CPI is the most important thing" I quickly backed up my points "Yes, CPI is important, but a low CPI does not mean the end of the world" and likewise. He then thanked me for my time and the HR round was over. Do prepare such questions before hand. I think the only thing they check in the HR round is how confident you are, how good you will be for working in a team, that's all. So be confident, be cool and be calm.<br>
+
+<b>I finally secured an internship with Dr. Reddy's Laboratories and got the confirmation mail in an hour :green_heart:</b><br>
 By the way, 7 is not a low CPI if you come are from IITK Mechanical department :triumph:<br>
 
 ## Advice for students sitting for internship next year :innocent:<br>
