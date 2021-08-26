@@ -44,7 +44,7 @@ I was very nervous and underconfident throughout. I was not selected for the int
 <b>HR Round:</b> It took place after around 15 mins of the technical round. I was not prepared at all. It started off by my introduction, where I come from and what I liked the most about Odisha (my homeland and birthplace :heart:) He then asked me why I had such a low CPI to which I replied logically. I even exclaimed how I am working hard to improve on it. He then asked me how much does CPI matter to which I replied, it matters a lot but there are other factors to consider than just CPI and here he exclaimed to me that CPI is the most improtant point in your resume and everything else is secondary. I was totally flustered at this point. He even exclaimed "I don't know what your seniors told you, but CPI is the most important thing" I quickly backed up my points "Yes, CPI is important, but a low CPI does not mean the end of the world" and likewise. He then thanked me for my time and the HR round was over. Do prepare such questions before hand. I think the only thing they check in the HR round is how confident you are, how good you will be for working in a team, that's all. So be confident, be cool and be calm.<br>
 
 <b>I finally secured an internship with Dr. Reddy's Laboratories and got the confirmation mail in an hour :green_heart:</b><br>
-By the way, 7 is not a low CPI if you come are from IITK Mechanical department :triumph:<br>
+By the way, 7 is not a low CPI if you are from IITK Mechanical department :triumph:<br>
 
 ## Advice for students sitting for internship next year :innocent:<br>
 
